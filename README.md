@@ -47,9 +47,9 @@ The `test_pa1.py` script tests the DFA simulator against various input files. It
 
 To run the tests:
 
-    ```bash
+```bash
     python test_pa1.py
-    ```
+```
 
 ## Input File Formats
 
