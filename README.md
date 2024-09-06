@@ -56,3 +56,7 @@ To run the tests:
 - DFA definition files (e.g., `dfa1.txt`): Specify the DFA structure.
 - String files (e.g., `str1.txt`): Contain input strings to test.
 - Correct output files (e.g., `correct1.txt`): Contain expected results for validation.
+
+## Acknowledgments
+
+Professor John Glick wrote all test scripts.
